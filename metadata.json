@@ -1,0 +1,6 @@
+{
+  "name": "Flash Bitcoin Sender",
+  "description": "Access Flash Bitcoin Sender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
+}
